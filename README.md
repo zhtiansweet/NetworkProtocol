@@ -1,5 +1,5 @@
 # Networking Protocols Implementation
-_January 2015 - March 2015_
+_January 2015 - March 2015_  
 _By Tian Zhang, Li Xu and Di Tian_  
 ## Network Layer
 Accomplished two IP algorithms (Link State and Distance Vector), designed the data structure of routing table stored in
