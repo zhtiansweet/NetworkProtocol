@@ -1,6 +1,7 @@
 # Networking Protocols Implementation
 _January 2015 - March 2015_  
-_By Tian Zhang, Li Xu and Di Tian_  
+_By Tian Zhang, Li Xu and Di Tian_ 
+_Course: Introduction to Computer Networking, Northwestern University, Evanston, IL_
 ## Network Layer
 Accomplished two IP algorithms (Link State and Distance Vector), designed the data structure of routing table stored in
 each node, and wrote code on Dijkstra’s and Bellman-Ford algorithms to find the shortest route.  
